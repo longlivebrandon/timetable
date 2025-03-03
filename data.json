@@ -1,0 +1,65 @@
+{
+  "timetable": [
+    {
+      "day": "Monday",
+      "schedule": [
+        "arts",
+        "arts",
+        "arts",
+        "sports",
+        "languages",
+        "sciences"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "schedule": [
+        "arts",
+        "sciences",
+        "sports",
+        "languages",
+        "languages",
+        "arts"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "schedule": [
+        "sports",
+        "sciences",
+        "languages",
+        "languages",
+        "sports",
+        "languages"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "schedule": [
+        "sports",
+        "sciences",
+        "sciences",
+        "languages",
+        "sciences",
+        "sciences"
+      ]
+    },
+    {
+      "day": "Friday",
+      "schedule": [
+        "sciences",
+        "sciences",
+        "languages",
+        "languages",
+        "sciences",
+        "languages"
+      ]
+    }
+  ],
+  "subjects": {
+    "languages": 10,
+    "sciences": 10,
+    "arts": 5,
+    "sports": 5
+  }
+}
